@@ -1,0 +1,35 @@
+body {
+   margin: 0;
+   padding: 10px;
+   color: #e4e4da;
+   font-family: Verdana, Arial, Helvetica, sans-serif;
+   font-size: 11px; 
+   line-height: 20px;
+   background-color: #242423;
+}
+.half {
+   width: 465px;
+   margin-bottom: 30px;
+} 
+p {
+   margin: 0 0 15px 0;
+} 
+em {
+   color: #c49e33;
+   font-style: italic;
+}
+.footer__btn {
+   clear: both;
+   display: block;
+   width: 77px;
+   height: 28px;
+   line-height: 28px;
+   color: #333;
+   text-align: center;
+   text-decoration: none;
+   border: none;
+   cursor: pointer;
+}
+.footer__description{
+   color: red;
+}
